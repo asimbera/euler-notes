@@ -3,7 +3,7 @@
 #### Solution:
 
 ##### Step 1:
-Decleare a variable that holds the sum.
+Declare a variable that holds the sum.
 ```js
 let sum = 0;
 ```
@@ -15,7 +15,7 @@ for (let i = 0; i < 1000; i++) {
 }
 ```
 ##### Step 3:
-In an if statement check if iterator is divisable by 3 or 5 without any remainders.
+In an if statement check if iterator is divisible by 3 or 5 without any remainders.
 ```js
 if (i % 3 === 0 || i % 5 === 0) {
 }
